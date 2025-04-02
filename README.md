@@ -26,3 +26,4 @@ link to old projects
 ### Frontend
 
 ### Features
+ETHPAR - Revolutionizing Ethereum efficiency using AI
