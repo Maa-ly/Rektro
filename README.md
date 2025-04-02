@@ -1,66 +1,28 @@
-## Foundry
+## REKTRO
+Welcome to the begining of Rektro
+If you are interested in contributing to this project, send me a mail demostrating your interest and past code skills (with projects)
 
-**Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.**
+after acceptance you will be then added to the discord channel where meet up infomation and details are shared.
 
-Foundry consists of:
+**Year Of AI* brings to you REKTRO
 
--   **Forge**: Ethereum testing framework (like Truffle, Hardhat and DappTools).
--   **Cast**: Swiss army knife for interacting with EVM smart contracts, sending transactions and getting chain data.
--   **Anvil**: Local Ethereum node, akin to Ganache, Hardhat Network.
--   **Chisel**: Fast, utilitarian, and verbose solidity REPL.
+## Contribution request structure 
+submit your discord username
+why are you interested
+link to old projects
 
-## Documentation
+**Can be done via mail or PR**
 
-https://book.getfoundry.sh/
+//Check my github discription for my personal mail 
 
-## Usage
 
-### Build
+### BOUT
 
-```shell
-$ forge build
-```
 
-### Test
+### Contract
 
-```shell
-$ forge test
-```
+### AI
 
-### Format
+### Frontend
 
-```shell
-$ forge fmt
-```
-
-### Gas Snapshots
-
-```shell
-$ forge snapshot
-```
-
-### Anvil
-
-```shell
-$ anvil
-```
-
-### Deploy
-
-```shell
-$ forge script script/Counter.s.sol:CounterScript --rpc-url <your_rpc_url> --private-key <your_private_key>
-```
-
-### Cast
-
-```shell
-$ cast <subcommand>
-```
-
-### Help
-
-```shell
-$ forge --help
-$ anvil --help
-$ cast --help
-```
+### Features
